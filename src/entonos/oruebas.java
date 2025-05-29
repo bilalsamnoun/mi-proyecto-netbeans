@@ -8,7 +8,7 @@ package entonos;
  *
  * @author bilalsamnoun
  */
-public class NewClass1 {
-    public int juego;
-            
+public class oruebas {
+    private String nombre;
+    
 }
