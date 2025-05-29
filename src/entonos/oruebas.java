@@ -10,5 +10,5 @@ package entonos;
  */
 public class oruebas {
     private String nombre;
-    
+    //hola 
 }
