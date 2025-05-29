@@ -8,8 +8,7 @@ package entonos;
  *
  * @author bilalsamnoun
  */
-public class NewClass {
-    
-    // Prueba de sincronización con GitHub........
-    
+public class NewClass1 {
+    public int juego;
+            
 }

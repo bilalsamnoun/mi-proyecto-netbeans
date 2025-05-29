@@ -14,7 +14,8 @@ public class Entonos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        // Prueba de sincronización con GitHub
     }
     
 }
